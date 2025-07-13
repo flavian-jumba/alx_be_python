@@ -1,7 +1,7 @@
 #additiom
 
-number1 = 5
-number2 = 10
+number1 = 5,number2 = 10
+
 
 result = (number1 + number2)
 answ = (number1 * number2)
