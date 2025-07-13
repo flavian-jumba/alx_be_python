@@ -1,9 +1,9 @@
-monthlyIncome = int(input("Enter your monthly income: "))
-monthlyExpenses = int(input("Enter your monthly expenses: "))
+monthly_income = int(input("Enter your monthly income: "))
+monthly_expenses = int(input("Enter your monthly expenses: "))
 
-monthlySavings = monthlyIncome - monthlyExpenses
+monthly_savings = monthly_income - monthly_expenses
 
-annualSavings = monthlySavings * 12 + (monthlySavings * 12 * 0.05)
+annual_savings = monthly_savings * 12 + (monthly_savings * 12 * 0.05)
 
-print(f"Your annual savings, including interest, is: {annualSavings}")
+print(f"Your annual savings, including interest, is: {annual_savings}")
                           
