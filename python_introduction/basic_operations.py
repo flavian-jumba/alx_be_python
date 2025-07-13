@@ -1,0 +1,10 @@
+#additiom
+
+number1 = 5
+number2 = 10
+
+result = (number1 + number2)
+answ = (number1 * number2)
+
+print(f"The sum of {number1} and {number2} is {result}")
+print(f"The product of {number1} and {number2} is {answ}")
